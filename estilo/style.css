@@ -395,6 +395,8 @@ section .sobre .flex {
 .sobre .img-sobre img {
   border-radius: 25px;
   margin: 0px 20px;
+  width: 450px;
+  height: 650px;
 }
 .social button {
   width: 60px;
